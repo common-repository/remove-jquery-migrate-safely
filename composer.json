@@ -1,0 +1,7 @@
+{
+    "name": "dotlayer/remove-jquery-migrate-safely",
+    "description": "Completely removes the jQuery migrate script dependency safely from your WordPress website thereby improving page load speed on the frontend.",
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    }
+}
